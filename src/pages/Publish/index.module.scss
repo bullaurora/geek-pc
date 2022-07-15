@@ -1,0 +1,9 @@
+.root {
+    padding: 24px;
+    :global {
+      .ql-editor {
+        min-height: 300px;
+        padding: 0 !important;
+      }
+    }
+  }
